@@ -111,7 +111,7 @@ plt.imshow(cv2.cvtColor(scaled_image, cv2.COLOR_BGR2RGB))  # Display the scaled 
 plt.title("Scaled Image")  # Set title
 plt.axis('off')
 ```
-<img width="625" height="220" alt="image" src="https://github.com/user-attachments/assets/2b0e8e56-46b1-4032-a621-10f251e00424" />
+<img width="577" height="286" alt="image" src="https://github.com/user-attachments/assets/90ec10e3-7634-4cb3-93a0-93287cae1a94" />
 
 
 ### Image Shearing
